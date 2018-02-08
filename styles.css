@@ -1,0 +1,77 @@
+/*FONTS*/
+@font-face {
+    font-family: 'NoticiaText';
+    font-style: normal;
+    font-weight: 700;
+    src: local('NoticiaText Bold'), local('NoticiaText-Bold'), url('fonts/Noticia_Text/NoticiaText-Bold.ttf') format('truetype');
+}
+@font-face {
+    font-family: 'NoticiaText';
+    font-style: italic, oblique;
+    font-weight: 700;
+    src: local('NoticiaText BoldItalic'), local('NoticiaText-BoldItalic'), url('fonts/Noticia_Text/NoticiaText-BoldItalic.ttf') format('truetype');
+}
+@font-face {
+    font-family: 'NoticiaText';
+    font-style: normal;
+    font-weight: 400;
+    src: local('NoticiaText Regular'), local('NoticiaText-Regular'), url('fonts/Noticia_Text/NoticiaText-Regular.ttf') format('truetype');
+}
+@font-face {
+    font-family: 'NoticiaText';
+    font-style: italic, oblique;
+    font-weight: 400;
+    src: local('NoticiaText Italic'), local('NoticiaText-Italic'), url('fonts/Noticia_Text/NoticiaText-Italic.ttf') format('truetype');
+}
+
+
+@font-face {
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 700;
+    src: local('Lato Bold'), local('Lato-Bold'), url('fonts/Lato/Lato-Bold.ttf') format('truetype');
+}
+@font-face {
+    font-family: 'Lato';
+    font-style: italic, oblique;
+    font-weight: 700;
+    src: local('Lato BoldItalic'), local('Lato-BoldItalic'), url('fonts/Lato/Lato-BoldItalic.ttf') format('truetype');
+}
+@font-face {
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 400;
+    src: local('Lato Regular'), local('Lato-Regular'), url('fonts/Lato/Lato-Regular.ttf') format('truetype');
+}
+@font-face {
+    font-family: 'Lato';
+    font-style: italic, oblique;
+    font-weight: 400;
+    src: local('Lato Italic'), local('Lato-Italic'), url('fonts/Lato/Lato-Italic.ttf') format('truetype');
+}
+@font-face {
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 300;
+    src: local('Lato Light'), local('Lato-Regular'), url('fonts/Lato/Lato-Light.ttf') format('truetype');
+}
+@font-face {
+    font-family: 'Lato';
+    font-style: italic, oblique;
+    font-weight: 300;
+    src: local('Lato LightItalic'), local('Lato-LightItalic'), url('fonts/Lato/Lato-LightItalic.ttf') format('truetype');
+}
+
+
+.titular{
+  font-family: 'NoticiaText', Times, serif;
+  font-size: 24px;
+}
+
+img{
+border:0;	
+}
+a{
+text-decoration:none;	
+}
+
