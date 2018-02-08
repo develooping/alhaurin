@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <widget id="com.alhaurincom.app" version="1.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
     <name>Alhaurin.com</name>
-    <description>Vestidos de Boda, Vestidos de Fiesta Cortos y Largos</description>
+    <description>Noticias de Alhaurín</description>
     <author email="develooping@gmail.com" href="http://develooping.com">Develooping</author>
     <content src="index.html" />
     <preference name="phonegap-version" value="cli-7.0.1" />
